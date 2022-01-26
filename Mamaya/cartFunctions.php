@@ -128,5 +128,6 @@ function removeItem() {
 	$conn->close();
 	header ("Location: shoppingCart.php");
 	exit;
-}		
+}
+		
 ?>
